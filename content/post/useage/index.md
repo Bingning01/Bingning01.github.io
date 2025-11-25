@@ -1,11 +1,10 @@
 ---
 title: 使用手册
-description: Useful shortcodes that can be used in Markdown
-date: 2025-11-26 00:00:00+0000
-image: cover.jpg
+description: Create beautiful interactive image gallery using Markdown
+date: 2023-08-26 00:00:00+0000
+image: 2.jpg
+使用手册:
 ---
-
-For more details, check out the [documentation](https://stack.jimmycai.com/writing/shortcodes).
 
 ## Bilibili video
 

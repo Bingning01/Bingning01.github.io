@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shortcodes/index.md",
+                "file": "笔记/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shortcodes/index.md",
+                "file": "笔记/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shortcodes/index.md",
+                "file": "笔记/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shortcodes/index.md",
+                "file": "笔记/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,15 +185,19 @@
   },
   "active": "b720f572033aa345",
   "lastOpenFiles": [
-    "shortcodes/cover.jpg",
-    "shortcodes/index.md",
-    "markdown-syntax/index.md",
+    "useage/2.jpg",
+    "useage/index.md",
+    "笔记/index.md",
+    "未命名.md",
+    "笔记",
+    "useage/1.jpg",
     "math-typesetting/index.md",
-    "image-gallery/1.jpg",
-    "image-gallery/index.md",
+    "_index.md",
+    "markdown-syntax/index.md",
+    "shortcodes/index.md",
+    "shortcodes/cover.jpg",
     "hello-world/index.md",
-    "image-gallery/2.jpg",
-    "image-gallery",
+    "useage",
     "hello-world/cover.jpg"
   ]
 }
