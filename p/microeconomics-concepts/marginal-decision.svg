@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 420" role="img" aria-labelledby="title desc">
+  <title id="title">边际收益与边际成本</title>
+  <desc id="desc">当边际收益高于边际成本时增加产量，当边际收益低于边际成本时减少产量，二者相等时达到利润最大化附近。</desc>
+  <defs>
+    <style>
+      .axis { stroke: #2f3a45; stroke-width: 3; }
+      .grid { stroke: #e3e8ef; stroke-width: 1; }
+      .mc { stroke: #d66b4d; stroke-width: 5; fill: none; }
+      .mr { stroke: #3a7ca5; stroke-width: 5; fill: none; }
+      .dash { stroke: #7b8794; stroke-width: 2; stroke-dasharray: 7 7; }
+      .title { font: 700 26px "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; fill: #1f2933; }
+      .label { font: 18px "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; fill: #1f2933; }
+      .note { font: 16px "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; fill: #52616b; }
+      .mrText { fill: #2f6f97; font-weight: 700; }
+      .mcText { fill: #b4523b; font-weight: 700; }
+    </style>
+  </defs>
+  <rect width="920" height="420" fill="#ffffff"/>
+  <text x="460" y="44" text-anchor="middle" class="title">边际分析：比较“多做一点”的收益和成本</text>
+  <line x1="110" y1="330" x2="800" y2="330" class="axis"/>
+  <line x1="110" y1="330" x2="110" y2="82" class="axis"/>
+  <text x="810" y="336" class="label">产量 Q</text>
+  <text x="68" y="86" class="label">收益 / 成本</text>
+  <line x1="110" y1="270" x2="800" y2="270" class="grid"/>
+  <line x1="110" y1="210" x2="800" y2="210" class="grid"/>
+  <line x1="110" y1="150" x2="800" y2="150" class="grid"/>
+
+  <path d="M130 118 C250 138 372 176 510 220 C620 256 715 292 780 314" class="mr"/>
+  <path d="M130 312 C248 282 374 236 510 220 C626 206 720 172 780 118" class="mc"/>
+
+  <line x1="510" y1="220" x2="510" y2="330" class="dash"/>
+  <circle cx="510" cy="220" r="8" fill="#2f3a45"/>
+  <text x="493" y="356" class="label">Q*</text>
+  <text x="530" y="216" class="label">MR = MC</text>
+
+  <text x="190" y="118" class="label mrText">MR 边际收益</text>
+  <text x="620" y="144" class="label mcText">MC 边际成本</text>
+  <text x="182" y="372" class="note">MR > MC：增加产量仍有利可图</text>
+  <text x="566" y="372" class="note">MR &lt; MC：继续生产会压缩利润</text>
+</svg>

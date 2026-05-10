@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>经济学概念 on Bingning01's Blog</title><link>https://Bingning01.github.io/tags/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E6%A6%82%E5%BF%B5/</link><description>Recent content in 经济学概念 on Bingning01's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://Bingning01.github.io/tags/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E6%A6%82%E5%BF%B5/index.xml" rel="self" type="application/rss+xml"/><item><title>微观经济学概念</title><link>https://Bingning01.github.io/p/microeconomics-concepts/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://Bingning01.github.io/p/microeconomics-concepts/</guid><description>&lt;h2 id="导论"&gt;导论
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;稀缺性：资源的有限性与人类欲望的无限性的矛盾&lt;/li&gt;
+&lt;li&gt;经济学人：对于消费者：效用的最大化&lt;/li&gt;
+&lt;li&gt;对于生产者：利润的最大化&lt;/li&gt;
+&lt;li&gt;经济模型：抽象模型&lt;/li&gt;
+&lt;li&gt;静态分析、比较静态分析、动态分析：常用的分析手法，供需曲线结合&lt;/li&gt;
+&lt;li&gt;边界分析方法：数学工具的应用&lt;/li&gt;
+&lt;li&gt;微观经济学与宏观经济学的界定或者说区别&lt;/li&gt;
+&lt;li&gt;稀缺性：&lt;/li&gt;
+&lt;li&gt;西方经济学研究的起点是资源的稀缺性。&lt;/li&gt;
+&lt;li&gt;稀缺性是指经济社会用都有的资源是有限的，但人们的欲望是无线电，此不能生产人们希望拥有的所有产品和劳务。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="https://Bingning01.github.io/p/microeconomics-concepts/scarcity-flow.svg"
+loading="lazy"
+alt="稀缺性与资源配置"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;图 1：有限资源与无限欲望之间的矛盾，迫使人们进行选择，并产生机会成本。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;在西方经济学看来相较于人的需求，人可以使用的物品和资源包括自然资源、人力资源和人工知道的生产设备等都是稀缺的。而人的欲望确实无线电。稀缺的资源不可能满足人的无限的欲望，因此人类必须在有限的资源条件下将资源有效地运用于满足人类最重要的目标上。如果每个人都能随心所欲地获得自己想要的东西，那么就没有任何人会去关心不同的人或者不同的社会阶层之间的收入分配是否公平的问题了，社会也就不需要制定相应的政策来协调和解决分配问题了。&lt;/p&gt;
+&lt;p&gt;换句话说，人们要在资源稀缺的条件下对各种有待满足的目标进行选择以便是的稀缺资源得到有效率的使用，物品和资源的稀缺性与人类无限欲望的满足之间存在矛盾，如何有效的使用社会资源满足人们的需要就成为经济学必须研究的课题。如何在稀缺条件下实现资源的有效配置和利用就成为西方经济学的根本任务。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;经济物品：有用且稀缺的物品。&lt;/li&gt;
+&lt;li&gt;西方经济学的研究对象：在稀缺条件下有效的配置资源和分配财富。&lt;/li&gt;
+&lt;li&gt;西方经济学的方法论个人主义&lt;/li&gt;
+&lt;li&gt;基本观点：&lt;/li&gt;
+&lt;li&gt;基本假设：经济人假设=完全理性假设+自理假设&lt;/li&gt;
+&lt;li&gt;选择时充满理智+以自身利益最大化为目标&lt;/li&gt;
+&lt;li&gt;演绎法：从一般到个体，由公理解释个体行为&lt;/li&gt;
+&lt;li&gt;归纳法：从众多事实中找出一般规律&lt;/li&gt;
+&lt;li&gt;经济模型：文字说明、数学方程、集合突出&lt;/li&gt;
+&lt;li&gt;内生变量：模型所决定的变量&lt;/li&gt;
+&lt;li&gt;外生变量：模型外的因素所决定的变量&lt;/li&gt;
+&lt;li&gt;流量与存量：流量是从时间段进行度量的经济变量或指标，量是实时进行测量的经济指标或变量。&lt;/li&gt;
+&lt;li&gt;静态分析：分析均衡状态，抽掉时间因素和具体变化过程&lt;/li&gt;
+&lt;li&gt;比较静态分析：为什么均衡点变化了，旧均衡有什么区别，些变量导致了这种变化。更像是拍了两张照片进行对比&lt;/li&gt;
+&lt;li&gt;而动态分析则更关注：经济系统如何随时间变化&lt;/li&gt;
+&lt;li&gt;实证分析：客观的描述经济现象，解释原因以及对未来做出预测&lt;/li&gt;
+&lt;li&gt;规范分析：主观的，带有价值判断标准&lt;/li&gt;
+&lt;li&gt;边际分析：经济变量的数量变动会对其他经济变量产生多大影响的方法&lt;/li&gt;
+&lt;li&gt;边际成本（MC）边际收益（MR）利润最大化条件通常是：&lt;/li&gt;
+&lt;li&gt;如果 MR &amp;gt; MC，产还能多赚钱&lt;/li&gt;
+&lt;li&gt;如果 MR &amp;lt; MC，生产反而亏钱&lt;/li&gt;
+&lt;li&gt;求供给和均衡价格&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="https://Bingning01.github.io/p/microeconomics-concepts/marginal-decision.svg"
+loading="lazy"
+alt="边际收益与边际成本"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;图 2：边际分析的核心是比较 MR 与 MC。通常在 MR = MC 附近，生产者达到利润最大化的产量选择。&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id="第一节-需求的概念"&gt;第一节 需求的概念
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;需求的概念：在其他条件不变的情况下，在某一特定时期内消费者在各种可能的价格下愿意并且能够购买该商品的数量。需求曲线通常是字母D表示。&lt;/li&gt;
+&lt;li&gt;需求规律的特例：&lt;/li&gt;
+&lt;li&gt;消费者对特定商品的需求始终不变&lt;/li&gt;
+&lt;li&gt;消费者对价格的变动极其敏感&lt;/li&gt;
+&lt;li&gt;消费者的需求随着物品的价格的提高而增加&lt;/li&gt;
+&lt;li&gt;Eg.吉芬物&lt;/li&gt;
+&lt;li&gt;影响需求的因素&lt;/li&gt;
+&lt;li&gt;商品自身的价格：一般情况价格与需求呈反向变动”&lt;/li&gt;
+&lt;li&gt;消费者的偏好&lt;/li&gt;
+&lt;li&gt;消费者的收入水平：收入水平与需求量正向变动&lt;/li&gt;
+&lt;li&gt;其他相关商品的价格&lt;/li&gt;
+&lt;li&gt;替代品：商品价格不变，商品的需求量和替代品的价格呈同方向变动&lt;/li&gt;
+&lt;li&gt;Eg.牛肉价格不变，羊肉价格上涨，羊肉需求下降，牛肉需求上涨&lt;/li&gt;
+&lt;li&gt;互补品：商品价格不变，商品的需求量和互补品的价格呈反方向变动&lt;/li&gt;
+&lt;li&gt;Eg.球拍价格不变，羽毛球的价格上涨，羽毛球的需求下降，球拍的需求下降&lt;/li&gt;
+&lt;li&gt;消费者预期：预期与需求量同方向变动&lt;/li&gt;
+&lt;li&gt;政府的政策&lt;/li&gt;
+&lt;li&gt;需求函数式：&lt;/li&gt;
+&lt;li&gt;商品需求量不仅受自身价格影响，还会受到很多其他经济因素影响。&lt;/li&gt;
+&lt;li&gt;需求量的变动：商品价格发生变化其他因素不变，同一条需求曲线上不不同点的变化&lt;/li&gt;
+&lt;li&gt;需求的变化：商品自身价格不变，整条需求曲线的移动&lt;/li&gt;
+&lt;li&gt;市场需求的含义&lt;/li&gt;
+&lt;li&gt;市场需求：在某一特定时期内所有消费者对该商品需求的总和&lt;/li&gt;
+&lt;li&gt;市场需求曲线：某种商品的市场需求曲线是所有需要该商品的单个消费者的需求曲线沿数量轴的横向加总&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="https://Bingning01.github.io/p/microeconomics-concepts/demand-curve.svg"
+loading="lazy"
+alt="需求曲线"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;图 3：一般情况下，价格越高，消费者愿意且能够购买的数量越少；价格越低，需求量越多。&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id="第二节-供给的概念"&gt;第二节 供给的概念
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;供给量：在某个特定时期内，对应于一个给定的价格，生产者愿意并且能够提供的商品数量被称为该价格下的供给量。&lt;/li&gt;
+&lt;li&gt;供给：其他条件不变的情况下，某一特定时期内生产者在各种可能价格下愿意并且能够出售的该种商品的数量。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="https://Bingning01.github.io/p/microeconomics-concepts/supply-curve.svg"
+loading="lazy"
+alt="供给曲线"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;图 4：一般情况下，价格越高，生产者越愿意增加供给；价格越低，供给量越少。&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
