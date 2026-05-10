@@ -1,0 +1,7 @@
+{{- $user := .Get 0 -}}
+{{- $gist := .Get 1 -}}
+{{- if and $user $gist -}}
+<script src="https://gist.github.com/{{ $user }}/{{ $gist }}.js"></script>
+{{- else -}}
+{{- errorf "gist shortcode requires user and gist id: %s" .Position -}}
+{{- end -}}
