@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 420" role="img" aria-labelledby="title desc">
+  <title id="title">需求曲线</title>
+  <desc id="desc">一般情况下，价格上升会使需求量下降，价格下降会使需求量上升。</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M1 1 L9 5 L1 9 Z" fill="#2f3a45"/>
+    </marker>
+    <style>
+      .axis { stroke: #2f3a45; stroke-width: 3; marker-end: url(#arrow); }
+      .grid { stroke: #e3e8ef; stroke-width: 1; }
+      .curve { stroke: #3a7ca5; stroke-width: 6; fill: none; }
+      .dash { stroke: #7b8794; stroke-width: 2; stroke-dasharray: 7 7; }
+      .title { font: 700 26px "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; fill: #1f2933; }
+      .label { font: 18px "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; fill: #1f2933; }
+      .note { font: 16px "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; fill: #52616b; }
+    </style>
+  </defs>
+  <rect width="920" height="420" fill="#ffffff"/>
+  <text x="460" y="44" text-anchor="middle" class="title">需求曲线：价格与需求量通常反向变动</text>
+  <line x1="120" y1="330" x2="800" y2="330" class="axis"/>
+  <line x1="120" y1="330" x2="120" y2="82" class="axis"/>
+  <text x="812" y="337" class="label">数量 Q</text>
+  <text x="82" y="82" class="label">价格 P</text>
+  <line x1="120" y1="150" x2="800" y2="150" class="grid"/>
+  <line x1="120" y1="260" x2="800" y2="260" class="grid"/>
+  <path d="M205 116 C345 160 522 235 720 306" class="curve"/>
+  <text x="722" y="286" class="label">D</text>
+  <circle cx="286" cy="143" r="7" fill="#3a7ca5"/>
+  <circle cx="632" cy="273" r="7" fill="#3a7ca5"/>
+  <line x1="286" y1="143" x2="286" y2="330" class="dash"/>
+  <line x1="120" y1="143" x2="286" y2="143" class="dash"/>
+  <line x1="632" y1="273" x2="632" y2="330" class="dash"/>
+  <line x1="120" y1="273" x2="632" y2="273" class="dash"/>
+  <text x="148" y="136" class="note">高价格</text>
+  <text x="148" y="266" class="note">低价格</text>
+  <text x="246" y="356" class="note">需求少</text>
+  <text x="592" y="356" class="note">需求多</text>
+</svg>
